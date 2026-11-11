@@ -56,7 +56,6 @@ Documents\\Rainmeter\\Skins\\
 NepaliDateWizard/
 
 │
-
 ├── NepaliDateWizard.ini
 ├── README.md
 │
