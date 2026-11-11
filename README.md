@@ -55,15 +55,19 @@ Documents\\Rainmeter\\Skins\\
 
 NepaliDateWizard/
 │
+
 ├── NepaliDateWizard.ini
 ├── README.md
 │
+
 ├── Scripts/
 │   └── bsdate.py
 │
+
 ├── @Resources/
 │   └── ReadBS.lua
 │
+
 ├── Images/
 │   └── nepal.png
 │
