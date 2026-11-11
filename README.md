@@ -54,7 +54,6 @@ Documents\\Rainmeter\\Skins\\
 ## 📂 Project Structure
 
 NepaliDateWizard/
-
 │
 ├── NepaliDateWizard.ini
 ├── README.md
