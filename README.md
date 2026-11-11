@@ -35,7 +35,7 @@ pip install nepali\-datetime
 
 Clone the repository:
 
-git clone [https://github.com/YOUR\_USERNAME/NepaliDateWizard.git](https://github.com/YOUR_USERNAME/NepaliDateWizard.git)
+git clone [https://github.com/asminbhujel/NepaliDateWizard.git](https://github.com/asminbhujel/NepaliDateWizard.git)
 
 Or download the ZIP from GitHub.
 
@@ -58,31 +58,18 @@ NepaliDateWizard/
 │
 
 ├── NepaliDateWizard.ini
-
 ├── README.md
-
 │
-
 ├── Scripts/
-
 │   └── bsdate.py
-
 │
-
 ├── @Resources/
-
 │   └── ReadBS.lua
-
 │
-
 ├── Images/
-
 │   └── nepal.png
-
 │
-
 └── screenshots/
-
     └── widget\-preview.png
 
 ## 🛠️ How It Works
