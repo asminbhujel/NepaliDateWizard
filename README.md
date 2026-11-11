@@ -16,7 +16,7 @@ Designed for Nepali users who want a clean and lightweight Nepali calendar widge
 
 ## 📷 Preview
 
-![Nepali Date Wizard](//screeshots/widget-preview.png)
+[![Nepali Date Wizard](//screeshots/widget-preview.png)](https://github.com/asminbhujel/NepaliDateWizard/blob/main/screeshots/widget-preview.png)
 
 ## 📦 Requirements
 
