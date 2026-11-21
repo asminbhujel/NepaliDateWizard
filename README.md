@@ -16,7 +16,7 @@ Designed for Nepali users who want a clean and lightweight Nepali calendar widge
 
 ## 📷 Preview
 
-[!Wizard Screenshot](screenshots/widget-preview.png)
+![Wizard Screenshot](screenshots/widget-preview.png)
 
 ## 📦 Requirements
 
@@ -69,7 +69,7 @@ NepaliDateWizard/
 │
 
 ├── Images/
-│   └── nepal.png
+│   └── nepalflag.png
 │
 └── screenshots/
     └── widget\-preview.png
